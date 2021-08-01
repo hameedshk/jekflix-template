@@ -133,11 +133,8 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+github_username: hameedshk
+linkedin_username: syedhameed
 medium_username: medium_username
 
 # Posts Settings
