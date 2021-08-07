@@ -1,8 +1,7 @@
 # Site Settings
 name: Hameed
 title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix 
 tags:
   - blog
   - template
@@ -30,8 +29,7 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: hameedshk
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: syedhameed
 
 
 # Posts Settings
@@ -102,4 +100,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0
