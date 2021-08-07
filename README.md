@@ -266,6 +266,7 @@ Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-temp
 - Set up [Netlify CMS](https://github.com/thiagorossener/jekflix-template/wiki/features#netlify-cms-ready)
 - Improved customization settings
 - Minor design updates
+![interlaken](https://user-images.githubusercontent.com/16490176/128604453-6aa52b3b-b6e2-44a6-b581-ad493df66091.jpeg)
 
 ### v1.0.1
 - Fixed bugs
